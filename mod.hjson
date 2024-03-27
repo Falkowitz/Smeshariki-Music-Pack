@@ -1,0 +1,7 @@
+name: "smp"
+displayName: "SMESHARIKI Music Pack"
+description: "Just replaces existing ost with ost from kikoriki :clueless:"
+author: "Fitz"
+minGameVersion: "136"
+version: "1.0"
+hideBrowser: false
