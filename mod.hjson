@@ -1,7 +1,7 @@
 name: "smp"
-displayName: "SMESHARIKI-Music-Pack"
-description: "Just replaces existing ost with ost from kikoriki :clueless:"
+displayName: "Smeshariki-Music-Pack"
+description: "Just replaces existing ost with ost from kikoriki"
 author: "Fitz"
 minGameVersion: "140"
-version: "1"
-hideBrowser: true
+version: "1.0"
+hideBrowser: false
