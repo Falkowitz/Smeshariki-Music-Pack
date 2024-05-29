@@ -5,3 +5,4 @@ author: "Fitz"
 minGameVersion: "140"
 version: "1.0"
 hideBrowser: false
+hidden: true
