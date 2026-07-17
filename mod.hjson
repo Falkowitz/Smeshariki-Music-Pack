@@ -1,8 +1,9 @@
 name: "smp"
 displayName: "Smeshariki-Music-Pack"
+subtitle: "V8 Out"
 description: "Just replaces existing ost with ost from kikoriki"
-author: "Fitz"
-minGameVersion: "140"
-version: "1.0"
+author: "Falkowitz"
+minGameVersion: "154"
+version: "1.1"
 hideBrowser: false
 hidden: true
